@@ -1,6 +1,6 @@
 # CHAINLYNX_ANALYTICS
 
-## Entity Relationship Model of Analysis from Blockchain transaction daata
+## Entity Relationship Model of Analysis from Blockchain transaction data
 
 Takes in an anonymized blockchain wallet address and performs primary and secondary transaction analysis to suggest relationships between entities.
 
